@@ -1,1 +1,2 @@
-# springcloud-config 配置中心
+# sprincloud-config
+sprincloud-config的配置中心
